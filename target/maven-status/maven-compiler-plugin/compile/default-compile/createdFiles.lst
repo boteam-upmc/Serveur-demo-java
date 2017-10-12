@@ -1,0 +1,5 @@
+com/obolink/service/ClientService.class
+com/obolink/controller/ClientController.class
+com/obolink/repository/ClientRepository.class
+com/obolink/domain/QClientCoefficient.class
+com/obolink/domain/QClient.class
