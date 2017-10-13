@@ -1,6 +1,4 @@
 # Serveur-demo-java
-
-FTL Order Management System
 ==
 
 Development Requirements
