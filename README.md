@@ -1,4 +1,4 @@
-# Serveur-demo-java
+Serveur-demo-java
 ==
 
 Development Requirements
